@@ -1,5 +1,6 @@
 //rapli suki
 //king nasir gacor lohya
+//kntl
 
 import 'package:flutter/material.dart';
 
