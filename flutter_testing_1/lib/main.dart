@@ -1,4 +1,3 @@
-//rapli suki
 //king nasir gacor lohya
 //kntl
 
